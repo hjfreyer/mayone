@@ -2,90 +2,13 @@
 layout: two_column
 title: Frequently Asked Questions
 ---
-<h2>Contents:</h2>
 
-<ul>
-  <li>
-    <a href="#plan">What’s the plan here?</a>
-  </li>
+# Contents
+{:toc}
 
-  <li>
-    <a href="#kickstart">What do you mean by “kick-start”</a>
-  </li>
+---
 
-  <li>
-    <a href="#dontmeet">What happens if we don’t meet our goal?</a>
-  </li>
-
-  <li>
-    <a href="#kindofpac">What kind of PAC is the Mayday PAC?</a>
-  </li>
-
-  <li>
-    <a href="#bigmoney">So you want to use big money to fight big money?</a>
-  </li>
-
-  <li>
-    <a href="#spendmoney">What will you spend the money on?</a>
-  </li>
-
-  <li>
-    <a href="#contributors">Will the contributors to the Mayday PAC be listed?</a>
-  </li>
-
-  <li>
-    <a href="#reformto">What does “fundamental reform” mean, and what specific proposals do you support?</a>
-  </li>
-
-  <li>
-    <a href="#constitutional">What about constitutional change?</a>
-  </li>
-
-  <li>
-    <a href="#screen">Is campaign reform the only “screen” that will be used to decide which candidates to support?</a>
-  </li>
-
-  <li>
-    <a href="#awful">How will we keep candidates&nbsp;independently supported by Mayday PAC&nbsp;honest?</a>
-  </li>
-
-  <li>
-    <a href="#whichcandidates">Which candidates are you planning to support?</a>
-  </li>
-
-  <li>
-    <a href="#no3rd">Why do you not have an “Independent/3rd Party” option?</a>
-  </li>
-
-  <li>
-    <a href="#direct">I’d prefer to donate directly instead of pledge.</a>
-  </li>
-
-  <li>
-    <a href="#check">Can I send a check instead of paying over the Internet?</a>
-  </li>
-
-  <li>
-    <a href="#crypto">Can I sent Cryptocurrency/Bitcoin?</a>
-  </li>
-
-  <li>
-    <a href="#progessbar">Why doesn’t the progress bar change immediately after my pledge?</a>
-  </li>
-
-  <li>
-    <a href="#founders">Are you sure you don’t mean “flounders?”</a>
-  </li>
-
-  <li>
-    <a href="#contactpage">What if my question isn’t answered here?</a>
-  </li>
-</ul>
-<hr>
-
-<p><a name="plan" id="plan"></a></p>
-
-<h2><span style="line-height: 1.5em;">What’s the plan here?</span></h2>
+# What’s the plan here?
 
 <p>We have launched an experiment to see whether we can kick-start a campaign for fundamental reform.</p>
 
